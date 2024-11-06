@@ -103,5 +103,6 @@ class MainActivity : AppCompatActivity() {
             binding.output.text = "Ошибка"
             binding.output.setTextColor(ContextCompat.getColor(this, R.color.red))
         }
+
     }
 }
